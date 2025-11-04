@@ -37,7 +37,8 @@ weights/
 
 # UV package manager
 .uv/
-
+uv.lock
+pyproject.toml
 # Environment variables
 .env
 .env.local
